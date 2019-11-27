@@ -1,0 +1,7 @@
+ol li:not(:last-child) {
+  margin-bottom: 39px;
+}
+
+.q {
+  font-weight: bold;
+}
