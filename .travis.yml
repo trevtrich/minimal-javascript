@@ -1,0 +1,11 @@
+language: node_js
+
+deploy:
+  provider: gae
+  keyfile: travis-ci-secret.json
+  project: minimal-javascript
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_6396b5d04266_key -iv $encrypted_6396b5d04266_iv
+  -in travis-ci-secret.json.enc -out travis-ci-secret.json
+  -d
