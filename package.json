@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A sandbox for my own toying with html and minimal js.",
   "main": "index.js",
+  "engines": {
+    "node": "10"
+  },
   "scripts": {
     "test": "echo \"nothing being tested yet\""
   },
