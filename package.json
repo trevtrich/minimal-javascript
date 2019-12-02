@@ -4,7 +4,7 @@
   "description": "A sandbox for my own toying with html and minimal js.",
   "main": "index.js",
   "engines": {
-    "node": "10"
+    "node": "12"
   },
   "scripts": {
     "test": "echo \"nothing being tested yet\""
