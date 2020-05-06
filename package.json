@@ -22,7 +22,7 @@
     "javascript"
   ],
   "author": "Trevor Richardson <tr@trevorrichardson.me>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": "https://github.com/richardson-trevor/minimal-javascript/issues",
   "homepage": "https://github.com/richardson-trevor/minimal-javascript#readme",
   "devDependencies": {
