@@ -26,7 +26,7 @@
   "bugs": "https://github.com/richardson-trevor/minimal-javascript/issues",
   "homepage": "https://github.com/richardson-trevor/minimal-javascript#readme",
   "devDependencies": {
-    "@form8ion/remark-lint-preset": "1.0.7",
+    "@form8ion/remark-lint-preset": "1.0.8",
     "ban-sensitive-files": "1.9.7",
     "check-engine": "1.8.1",
     "lockfile-lint": "4.3.6",
